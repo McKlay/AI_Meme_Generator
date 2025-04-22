@@ -1,0 +1,6 @@
+gradio
+transformers
+torch
+Pillow
+opencv-python
+sentencepiece

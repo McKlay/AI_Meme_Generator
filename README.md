@@ -42,6 +42,6 @@ sentencepiece
 
 ## Try it online!
 
-Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/) 🚀
+Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/McKlay/AI-Meme-Generator) 🚀
 
 ---
